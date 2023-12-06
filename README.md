@@ -9,7 +9,8 @@ Skills: Microsoft Excel, R, SQL and Power BI Learning: Python Approach: Excels i
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [raktimmazumdar11@gmail.com](mailto:raktimmazumdar11@gmail.com)
 *   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on Any Interesting Data Analysis Project<a href="https://www.github.com/raktimmazumdar" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on Any Interesting Data Analysis Project
+*   <a href="https://www.github.com/raktimmazumdar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/raktimmazumdar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/RaktimMazumdar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/RaktimMazumdar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
