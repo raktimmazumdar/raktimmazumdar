@@ -32,7 +32,7 @@
   <a href="http://www.instagram.com/__raktim__007/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/raktim-mazumdar-13a44566/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a>
   <a href="https://www.stackoverflow.com/users/21136441/raktim-mazumdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  <a href="https://www.x.com/RaktimMazumdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.x.com/RaktimMazumdar" target="_blank" rel="noreferrer"><img src="https://github.com/jmnote/z-icons/blob/master/svg/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
